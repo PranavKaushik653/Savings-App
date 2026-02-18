@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Sensitive info in application properties ###
+C:\Users\DELL\OneDrive\Desktop\Savings-App\src\main\resources\application.properties
